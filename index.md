@@ -9,7 +9,5 @@ categories: jekyll update
 ---
 
 Hello world, just learning how to setup a portfolio using some tools with jekllrb.  
-Post: sdfwdfdwfw
 
-title:  "Welcome to Jekyll!"
 This is an [example link](http://example.com/).
