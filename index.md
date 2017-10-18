@@ -4,4 +4,4 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
-Hello world
+Hello world, just learning how to setup a portfolio using some tools with jekllrb.  
