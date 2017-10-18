@@ -7,7 +7,3 @@ title:  "Welcome to Jekyll!"
 date:   2015-11-17 16:16:01 -0600
 categories: jekyll update
 ---
-
-Hello world, just learning how to setup a portfolio using some tools with jekllrb.  
-
-This is an [example link](http://example.com/).
