@@ -3,7 +3,8 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: Home
-title:  "Welcome to Jekyll!"
+title: "Welcome to Jekyll!"
 date: 2015-11-17 16:16:01 -0600
 categories: jekyll update
 ---
+YYYY-MM-DD HH:MM:SS +/-TTTT
