@@ -5,8 +5,7 @@ date: 2017-10-17 01:00:00 +0600
 categories: jekyll update
 ---
 
-
-kjlfjkawjekaflwefjakwefjawfjklewfawjfklejwkfjalwkfjkawejfklawejlfkawjelfkjwalkfjlwefjklawjfklawjfklwjeklfjwlkfjklwejfklwejflk;wjefkla;wjf ;gjdkajvkdlnkladvnawkl;j
+FIRST post running through various types of changes to formating etc.
 
 Post two  
 YYYY-MM-DD HH:MM:SS +/-TTTT
