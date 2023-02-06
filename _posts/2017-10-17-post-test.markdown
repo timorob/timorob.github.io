@@ -2,7 +2,7 @@
 layout: post
 title:  "Second Post"
 date: 2017-10-17 01:00:00 +0600
-categories: jekyll update
+categories: random update
 ---
 
-FIRST post running through various types of changes to formating etc. Trying to get an easier way of blogging setup.
+Tim is trying to run through various types of formating etc. Trying to get an easier way of blogging setup.
