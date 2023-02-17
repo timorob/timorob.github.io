@@ -1,7 +1,7 @@
 ---
-layout: post
-title: "testing 2023"
-date: 2/6/2023
+Layout: post
+Title: "test first round of 2023"
+Date: 2/16/2023
 categories: New Blog updates
 ---
 
